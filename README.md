@@ -1,5 +1,9 @@
 # hello-world-vue
 
+
+> 参考文档 https://cli.vuejs.org/zh/
+
+
 ## Project setup
 ```
 yarn install
